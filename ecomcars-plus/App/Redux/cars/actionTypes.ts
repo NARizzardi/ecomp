@@ -1,0 +1,7 @@
+export enum CarsActionTypes {
+    CARS_REQUEST = 'CARS_REQUEST',
+    CARS_SUCCESS = 'CARS_SUCCESS',
+    CARS_FAILURE = 'CARS_FAILURE',
+
+    CLEAN_STATE = 'CLEAN_STATE',
+}

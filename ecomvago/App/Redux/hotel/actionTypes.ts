@@ -1,0 +1,7 @@
+export enum HotelActionTypes {
+    HOTEL_REQUEST = 'HOTEL_REQUEST', //0
+    HOTEL_SUCCESS = 'HOTEL_SUCCESS', //1
+    HOTEL_FAILURE = 'HOTEL_FAILURE', //2
+
+    CLEAN_STATE = 'CLEAN_STATE', //3
+}
